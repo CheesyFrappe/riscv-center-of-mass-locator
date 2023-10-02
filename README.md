@@ -30,7 +30,7 @@ file in raw major1 order:
 In order to convert the image into an RGB-formatted file, `ImageMagick` is used. With the use of the
 proper commands images can be converted into different formats. 
 
-### Installing `ImageMagick` in Linux 
+### Installing `ImageMagick` on Linux 
 
 ```shell
 sudo apt install imagemagick
