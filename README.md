@@ -1,4 +1,4 @@
-# RISC-V Center of Mass Indicator
+# RISC-V Center of Mass Locator
 
 The aim is to develop a program in Assembly RISC-V to locate characters in an image. 
 Given a file with an image in RGB format, the program should generate a new image that identifies the character chosen by the user. 
